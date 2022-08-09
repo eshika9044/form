@@ -1,0 +1,11 @@
+div{
+    border: 10px double aquamarine;
+}
+label{
+    margin:10px ;
+} 
+input{
+    margin: 10px;
+}   
+body{ 
+    background-color: cadetblue;}
